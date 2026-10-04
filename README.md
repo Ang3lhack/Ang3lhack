@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Tu GIF generado -->
-  <img src="perfil_completo.gif" alt="Ventana de Perfil Angel Gael">
+  <img src="perfil_completo.gif?v=1" alt="Ventana de Perfil Angel Gael">
   
   <br><br>
 
